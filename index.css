@@ -1,0 +1,12 @@
+.p {
+    display: flex;
+    flex-direction: row;
+    flex-direction: column;
+    justify-content: space-around;
+
+ 
+}    
+
+.button {
+    width: 100px;
+}
