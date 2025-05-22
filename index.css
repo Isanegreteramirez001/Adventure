@@ -22,4 +22,5 @@
 .red {
     display: flex;
     color: red;
+  flex-direction: column;
 }
